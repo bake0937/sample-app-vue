@@ -3,11 +3,11 @@
     <v-list class="pa-1">
       <v-list-tile avatar>
         <v-list-tile-avatar>
-          <img src="https://avatars2.githubusercontent.com/u/1363954?s=460&v=4">
+          <img src="https://avatars3.githubusercontent.com/u/19608290?s=460&v=4">
         </v-list-tile-avatar>
 
         <v-list-tile-content>
-          <v-list-tile-title>Kazuya Kojima</v-list-tile-title>
+          <v-list-tile-title>Kyohei Okabe</v-list-tile-title>
         </v-list-tile-content>
       </v-list-tile>
     </v-list>
