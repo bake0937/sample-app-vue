@@ -2,7 +2,7 @@
 name: 2_bug
 about: 不具合用のテンプレート
 title: ''
-labels: ''
+labels: Test Test
 assignees: ''
 
 ---
