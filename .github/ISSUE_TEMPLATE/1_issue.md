@@ -2,7 +2,7 @@
 name: 1_Issue
 about: 課題提示
 title: ''
-labels: ''
+labels: bug, documentation
 assignees: ''
 
 ---
