@@ -4,6 +4,7 @@ about: 課題提示
 title: ''
 labels: bug, documentation
 assignees: ''
+projects: test
 
 ---
 
